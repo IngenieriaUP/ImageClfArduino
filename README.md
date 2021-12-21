@@ -8,4 +8,4 @@ Para facilitar el entrenamiento del modelo se recomienda el uso de [teachable ma
 # Uso 👨‍💻
 
 Se debe ejecutar el archivo `teachable_arduino.py` desde un dispositvo que tenga una camara web activada y un arduino conectado mediante USB.
-El arduino debe tener precargado el codigo `signalReceiver/signalReceiver.ino``
+El arduino debe tener precargado el codigo `signalReceiver/signalReceiver.ino`
